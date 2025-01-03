@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{828A8873-147F-4851-B98D-B93D883EB916}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\Baekjoon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{828A8873-147F-4851-B98D-B93D883EB916}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{68186779-54D0-4ECA-9325-B90FFF1117D5}|9093\\9093.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68186779-54D0-4ECA-9325-B90FFF1117D5}|9093\\9093.vcxproj|solutionrelative:9093\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\Baekjoon\\main.cpp",
-              "RelativeDocumentMoniker": "Baekjoon\\main.cpp",
-              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\Baekjoon\\main.cpp",
-              "RelativeToolTip": "Baekjoon\\main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp",
+              "RelativeDocumentMoniker": "9093\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp*",
+              "RelativeToolTip": "9093\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-30T14:27:05.976Z",
+              "WhenOpened": "2025-01-03T15:42:54.683Z",
               "EditorCaption": ""
             }
           ]
