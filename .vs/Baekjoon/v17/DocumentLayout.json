@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21F7810C-C3D6-4437-B566-90A801F27E01}|9012\\9012.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7810C-C3D6-4437-B566-90A801F27E01}|9012\\9012.vcxproj|solutionrelative:9012\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68186779-54D0-4ECA-9325-B90FFF1117D5}|9093\\9093.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{68186779-54D0-4ECA-9325-B90FFF1117D5}|9093\\9093.vcxproj|solutionrelative:9093\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp",
+              "RelativeDocumentMoniker": "9012\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp",
+              "RelativeToolTip": "9012\\main.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T12:41:08.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp",
               "RelativeDocumentMoniker": "9093\\main.cpp",
               "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp",
               "RelativeToolTip": "9093\\main.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwCEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-03T15:42:54.683Z",
               "EditorCaption": ""
