@@ -22,38 +22,27 @@ int main()
 
 		while ((ch = cin.get()) != '\n')
 		{
-			if (stack >= 0)
+			if (ch == '(')
 			{
-				if (ch == '(')
-				{
-					stack++;
-				}
-				else if (ch == ')')
-				{
-					stack--;
-				}
+				stack++;
 			}
-			else
+			else if (ch == ')')
 			{
-				while (cin.get() != '\n');
-				cout << "NO" << endl;
-				flag = true;
-				break;
+				stack--;
+				if (stack < 0)
+				{
+					while (cin.get() != '\n');
+					break;
+				}
 			}
 		}
 
-		if (!flag)
+		if (stack == 0)
+			cout << "YES" << endl;
+		else
 		{
-			if (stack == 0)
-			{
-				cout << "YES" << endl;
-			}
-			else
-			{
-				cout << "NO" << endl;
-			}
+			cout << "NO" << endl;
 		}
-
 	}
 
 }
