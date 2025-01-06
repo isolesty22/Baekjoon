@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C70B217F-4F48-4468-A716-4F65D0554F6A}|1874\\1874.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\1874\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C70B217F-4F48-4468-A716-4F65D0554F6A}|1874\\1874.vcxproj|solutionrelative:1874\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21F7810C-C3D6-4437-B566-90A801F27E01}|9012\\9012.vcxproj|C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21F7810C-C3D6-4437-B566-90A801F27E01}|9012\\9012.vcxproj|solutionrelative:9012\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,24 +25,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\deque",
+              "ViewState": "AgIAAEcEAAAAAAAAAAD4v1YEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T15:52:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\1874\\main.cpp",
+              "RelativeDocumentMoniker": "1874\\main.cpp",
+              "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\1874\\main.cpp",
+              "RelativeToolTip": "1874\\main.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-05T16:08:07.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp",
               "RelativeDocumentMoniker": "9012\\main.cpp",
               "ToolTip": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9012\\main.cpp",
               "RelativeToolTip": "9012\\main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCUAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-04T12:41:08.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD638\uC900\\Desktop\\study\\Baekjoon\\9093\\main.cpp",
               "RelativeDocumentMoniker": "9093\\main.cpp",
